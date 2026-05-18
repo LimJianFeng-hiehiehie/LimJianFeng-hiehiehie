@@ -81,7 +81,7 @@ I'm always open to learning from others and contributing where I can:
   
 ### 🏆 Featured Projects
 
-> *Research Grant Management System* | *Race to 50 (OS Game)* | *Trading Scripts*
+> *Research Grant Management System* | *Race to 50 (OS Game)* | *RobotWarSim* | *Parking-Lot System* 
 
 ---
 
