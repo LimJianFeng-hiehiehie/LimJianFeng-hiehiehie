@@ -19,7 +19,7 @@ I'm a passionate developer on a journey to blend **data science** . Currently pr
 - 🌱 **Currently exploring:** Advanced technical analysis & statistical modeling
 - 🎯 **Focusing on:** Portfolio projects that solve real problems
 - 💬 **Happy to chat about:** Python, Java, C++, databases, or trading strategies
-- 🎲 **Fun fact:** Spymaster in *Codenames* ⚡ | Mountain enthusiast 🏔️
+- 🎲 **Fun fact:Mountain enthusiast 🏔️
 
 ---
 
